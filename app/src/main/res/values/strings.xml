@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppDeveloper</string>
+    <string name="title_activity_creacion_cliente">CreacionClienteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <!-- LOGIN -->
+    <string name="inicioSesion">INICIO DE SESION</string>
+    <string name="ingreseCodigo">Código de Verificación</string>
+    <string name="crearCuenta">Registrar</string>
+    <string name="noTieneCuenta">¿No tienes una cuenta?</string>
+    <string name="numTelefono">Número de Teléfono</string>
+    <string name="telefonoInvalido">Número de teléfono inválido.</string>
+    <string name="telefonoRequerido">El campo teléfono es requerido.</string>
+    <string name="telefonoNoRegistrado">El teléfono no se encuentra registrado.</string>
+
+    <string name="codigoInvalido">Código inválido</string>
+    <string name="codigoRequerido">El campo código requerido</string>
+
+    <!-- CREACION CLIENTE -->
+    <string name="tituloRegistro">REGISTRO DE CLIENTE</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+    <string name="nombreRequerido">Nombre requerido</string>
+
+    <!-- BOTONES -->
+    <string name="ingresar">INGRESAR</string>
+    <string name="registrar">REGISTRAR</string>
+</resources>

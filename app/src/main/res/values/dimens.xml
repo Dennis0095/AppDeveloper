@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tituloLogin">25sp</dimen>
+    <dimen name="marginTituloLogin">100dp</dimen>
+    <dimen name="marginTituloForm">150dp</dimen>
+
+    <dimen name="icDni">30dp</dimen>
+    <dimen name="textGeneral">13sp</dimen>
+    <dimen name="textSize">11sp</dimen>
+    <dimen name="textBtn">15sp</dimen>
+    <dimen name="progresBtn">23dp</dimen>
+
+</resources>

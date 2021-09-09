@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tituloLogin">25sp</dimen>
+    <dimen name="marginTituloLogin">100dp</dimen>
+    <dimen name="marginTituloForm">150dp</dimen>
+    <dimen name="icDni">30dp</dimen>
+
+    <dimen name="textGeneral">13sp</dimen>
+    <dimen name="textBtn">15sp</dimen>
+    <dimen name="progresBtn">23dp</dimen>
+    <dimen name="textSize">11sp</dimen>
+
+
+</resources>
